@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux'
 import { useEffect } from "react";
 import { selectContacts, selectIsLoading, selectIsError } from '../../redux/contacts/selectors.js'
 import ContactForm from '../../components/contactform/ContactForm.jsx'
-import SearchBox from '../../components/searchBox/SearchBox.jsx'
+import SearchBox from '../../components/searchbox/SearchBox.jsx'
 import ContactList from '../../components/contactList/ContactList.jsx'
 import Loader from '../../components/loader/Loader.jsx';
 
