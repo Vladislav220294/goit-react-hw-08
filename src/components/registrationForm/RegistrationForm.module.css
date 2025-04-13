@@ -1,0 +1,13 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    margin-bottom: 20px;
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: brown;
+}

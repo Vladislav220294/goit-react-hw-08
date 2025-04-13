@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-size: 24px;
+    list-style-type: none;
+}
+
+.link {
+    color: aliceblue;
+}
+
+.link:hover {
+    color: brown;
+}
